@@ -8,7 +8,7 @@
 ![Image of Sandro Cagara](https://i.ibb.co/JH8xJxk/README-Youtube-Status-v2.jpg)
 <p align="center">
    <h3>Demo</h3>
-   <img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="500" />
+   <img src="https://readme-youtube-status-master.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="500" />
 <p align="center">
 
 Google Developer

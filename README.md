@@ -50,7 +50,4 @@ Contribution
 ------
 Feel Free to contribute, PR are the most welcome :)
 
-License
-------
-Copyright (c) 2020 Sandro Cagara | Youtube Status
 

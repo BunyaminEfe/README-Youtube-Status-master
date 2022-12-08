@@ -24,7 +24,7 @@ Google Developer
 
 Configure Vercel Application
 ------
-* Fork this [Youtube Status](https://github.com/sndrjhlncgr/README-Youtube-Status)
+* Fork this [Youtube Status](https://github.com/BunyaminEfe/README-Youtube-Status-master)
 
 * Register on [Vercel](https://vercel.com/)
 
